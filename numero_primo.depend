@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1467139917 source:/home/luis/Teste C/numero_primo/numero_primo/main.c
+	<stdio.h>
+	<stdlib.h>
+
